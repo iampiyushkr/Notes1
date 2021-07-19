@@ -1,0 +1,48 @@
+.inp {
+  width: 100px;
+  height: 30px;
+  background-color: darkgray;
+}
+.inp1 {
+  width: 150px;
+  height: 100px;
+  background-color: darkgray;
+  margin-left: 30px;
+  margin-top: 50px;
+}
+.but {
+  margin-top: 20px;
+  width: 100px;
+  height: 40px;
+  background-color: black;
+  color: aliceblue;
+}
+.table {
+  border: 3px solid darkgray;
+  border-style: groove;
+  background-color: darkolivegreen;
+}
+.tr {
+  font-size: 20px;
+  font-weight: bolder;
+}
+.div {
+  text-align: center;
+  width: 200px;
+  margin: auto;
+}
+.btn {
+  margin-top: 10px;
+  width: 60px;
+  height: 20px;
+  background-color: darkslategray;
+  color: aliceblue;
+}
+.sort {
+  width: 100px;
+  height: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-color: crimson;
+  color: wheat;
+}
